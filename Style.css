@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+.pageDefults{
+    background-color: #212529 ;
+}
+
+header {
+    background-color:#24303e;
+    min-height: 3%;
+    top: 0;
+    left: 0;
+    position: sticky;
+    z-index: 2;
+    padding-top: 5px;
+    padding-left: 4%;
+    color: grey;
+    font-family: Verdana;
+}
+
+.sidebar{
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    position: absolute;
+    background-color: #2b3b4a;
+    width: 4%;
+}
+
+.buttenRowPlacement{
+    right: 0;
+}
+
+
+
+
+.test  {
+    margin-left: 5%;
+}
